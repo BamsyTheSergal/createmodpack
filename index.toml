@@ -1029,11 +1029,6 @@ hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "0a786416dcef1b24033a9c652e1e0fc6c97b77cfdfab3b65d4f3cd87377d3a69"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
 metafile = true
