@@ -493,11 +493,6 @@ hash = "1ef97ce01670bb73af698f21321630789d95aa8ab622d5380daa28844b3b16d4"
 metafile = true
 
 [[files]]
-file = "mods/json-things.pw.toml"
-hash = "1029437c2f4ca5c7b3a4fd4b2c88a8eff7d54d5be31057e8f035494dc323fe75"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
