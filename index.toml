@@ -249,6 +249,11 @@ hash = "eec4416836f3aab7bd4e20f570c99129da9c34850842ae9bcfcf395e98fbde9d"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "aeca18f6b833fe752266dfbd45c7d933fce2e85e6d6abbe7782b515b3b674d3d"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
@@ -326,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-asset-generator.pw.toml"
 hash = "7a4a3b1406c8c3a999958c6a42e95deacbc7bfdeabb51d1fdfafeef36879b54c"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
 
 [[files]]
