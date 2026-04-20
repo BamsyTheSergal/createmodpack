@@ -843,11 +843,6 @@ hash = "88409b83fd1a3c90a52ded3e8de9951573c147113772cb40ecf2d4f5af1e874a"
 metafile = true
 
 [[files]]
-file = "mods/simple-gravel-ores.pw.toml"
-hash = "6257143947272b137eb96a28e5793ff87ba30fdb8ada49dcc95748aa21634a2e"
-metafile = true
-
-[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
 metafile = true
