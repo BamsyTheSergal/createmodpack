@@ -784,6 +784,11 @@ hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
 metafile = true
 
 [[files]]
+file = "mods/railways-untold.pw.toml"
+hash = "56923d37a73f9cbfc91f7485c8f85d34dc72f750339f80ccbffac1dbed5aba00"
+metafile = true
+
+[[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "f14df264e62a6116d60bdf03f9f74173277e1f86ff6070d2fdfcb85c7780d7eb"
 metafile = true
