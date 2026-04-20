@@ -1,0 +1,13 @@
+name = "Simple Gravel Ores"
+filename = "Gravel-Ores-2.2.2-for-1.21.x-26.1.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "820669541341e9da8bb231a56020a9c606d69a4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7923265
+project-id = 264330

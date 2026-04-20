@@ -1,0 +1,13 @@
+name = "Farmer's (Delight) Croptopia"
+filename = "farmers_croptopia-1.21.1-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nyIn6Lmk/versions/CRN0eXf4/farmers_croptopia-1.21.1-3.2.1.jar"
+hash-format = "sha512"
+hash = "2b7fa084dd0135481eadfcf913c25979c04b62d730a540e9995c97a020f1cce22fd75c94d75177b83f1f9cf291c9dac7e96fb4977e154e848dc458d166a2d16b"
+
+[update]
+[update.modrinth]
+mod-id = "nyIn6Lmk"
+version = "CRN0eXf4"

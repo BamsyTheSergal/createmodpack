@@ -1,0 +1,13 @@
+name = "createmodpack"
+author = "BamsyTheSergal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7064051978d1122cdbe277f014fee9cf04ae46e1158ca6b2e8d9ef0ac281ce9a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

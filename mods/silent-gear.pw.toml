@@ -1,0 +1,13 @@
+name = "Silent Gear"
+filename = "silent-gear-1.21.1-neoforge-4.1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73mSSnCf/versions/LNwmc5Rt/silent-gear-1.21.1-neoforge-4.1.6.1.jar"
+hash-format = "sha512"
+hash = "841464e7efe894420952c21dfdbe1494319dc278b30e27f72890db1705e6176dbd127956cacf1276d6ce085d083efb1be951ec3047274972e821e6b464d9834b"
+
+[update]
+[update.modrinth]
+mod-id = "73mSSnCf"
+version = "LNwmc5Rt"

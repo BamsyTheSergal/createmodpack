@@ -1,0 +1,13 @@
+name = "Trample No More"
+filename = "tramplenomore-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dad922bb6597aa32cb99534f6ca321d552217b90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5960415
+project-id = 377313

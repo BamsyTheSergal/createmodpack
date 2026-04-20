@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-neoforge-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v0j2ftEp/versions/2IFMx2Wd/littlejoys-neoforge-1.21.1-21.1.11.jar"
+hash-format = "sha512"
+hash = "6824c0c53d7d1aafa1b179a4a93c78135c24ba9190460dfefe6c8be52117d5db2271a1e2bd1344c64f5facf3cf24302a548a025b2e68a0e02b6a88c923e03b2e"
+
+[update]
+[update.modrinth]
+mod-id = "v0j2ftEp"
+version = "2IFMx2Wd"
