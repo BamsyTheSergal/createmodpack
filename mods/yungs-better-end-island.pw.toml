@@ -1,13 +1,13 @@
-name = "YUNG's Better End Island (Forge/NeoForge)"
-filename = "YungsBetterEndIsland-1.21.1-Forge-3.1.2.jar"
-side = "both"
+name = "YUNG's Better End Island"
+filename = "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "e4dd96157c6e6b2ab32d6b453a379870f1167437"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+hash-format = "sha512"
+hash = "02923a1a97eb81ec13d69bdc6b7e8b36dfb9e6f1a98adfcf103707ec3afde35831ccd4b210e9b3a9c7662541c38ea593a3d94c12171b4072ea7feafa75c95f96"
 
 [update]
-[update.curseforge]
-file-id = 6300967
-project-id = 901344
+[update.modrinth]
+mod-id = "2BwBOmBQ"
+version = "I52NZ1qK"
