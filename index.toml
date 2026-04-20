@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/quark-common.toml"
-hash = "ca6385471fe87df6839ed7820613b2d08fe2199878273e5eebb31f70e8901e5b"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/block/blaze_rod_block.png"
 hash = "1b12e4c257d5d44ab3e023caf62152ca5a1cf7d135b3ddc52f5f64ecdadadb8a"
 
