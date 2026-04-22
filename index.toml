@@ -34,6 +34,11 @@ hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d8c11ac9a5df4241525c567a79d65c36c740144150a76b17d688cb11ab2b5a97"
 metafile = true
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -549,6 +559,11 @@ hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
@@ -611,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/little-joys.pw.toml"
 hash = "7b60b54d1ffd847e0092650c5342a5831bf62d3898bae56bc820a1206a9bda90"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "46d66e4fd7dc361a777536498cdf016405bb53196d5d68038a739ecdcda16a92"
 metafile = true
 
 [[files]]
@@ -871,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
 metafile = true
 
 [[files]]
