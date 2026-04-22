@@ -119,6 +119,11 @@ hash = "50020be4a6c811b85a9085c93df65a6d7f2e9b28db5bac3c9ac72a84004da9e6"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "108a3e0ea339c42bb3c7fd9cfe1221fec7c1ade0cc4627dd0cb36f10e7fbb078"
+metafile = true
+
+[[files]]
 file = "mods/caupona.pw.toml"
 hash = "ab1184ae78648abe3cf00610be9126b9ac4910e58cfd51aa0225237329a3a67f"
 metafile = true
@@ -199,6 +204,11 @@ hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
 metafile = true
@@ -211,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "5e6c61549caae38e8232f91a359956c1804a56aa91274a33338ac0ba80f62b59"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
 metafile = true
 
 [[files]]
@@ -249,6 +264,11 @@ hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "eec4416836f3aab7bd4e20f570c99129da9c34850842ae9bcfcf395e98fbde9d"
 metafile = true
@@ -266,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "e002fe71d2ddab09d22e9def9aef6cfc4decfcf372ca40c9cb4d7987f3190fad"
 metafile = true
 
 [[files]]
