@@ -534,6 +534,11 @@ hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
+metafile = true
+
+[[files]]
 file = "mods/iglee-library.pw.toml"
 hash = "f0faf003008fa89253cdc43a85873ec62ef86057c3e6997c400ef748251bfdbf"
 metafile = true
