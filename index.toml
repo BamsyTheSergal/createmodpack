@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "c8f17113350da1e12aca13a5191422bc12c2277d9c914a4726f29b0129bbd7bc"
+hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "fa41c407c56d02e4c5e04eb019b0886075b105dbe9e97dc0e9a8a63d70db43f2"
+hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "b294ae2419ed852d47f6af64bf0f122780c8d641afbbc2f435c5c3c69c9aa209"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
