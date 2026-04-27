@@ -39,6 +39,11 @@ hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d3e10dd46947eb55c38a2f1f70f3a7dfc9a84d46bc31202860e780fed852d8f0"
 metafile = true
