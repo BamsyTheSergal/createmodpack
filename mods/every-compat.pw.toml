@@ -1,6 +1,7 @@
 name = "Every Compat (Wood Good)"
 filename = "everycomp-1.21-2.11.38-neoforge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/eiktJyw1/versions/JRLLH4as/everycomp-1.21-2.11.38-neoforge.jar"

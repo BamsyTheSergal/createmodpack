@@ -1,6 +1,7 @@
 name = "Create"
 filename = "create-1.21.1-6.0.9.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"

@@ -1,6 +1,7 @@
 name = "Crate Delight"
 filename = "cratedelight-25.09.22-1.21-neoforge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar"
