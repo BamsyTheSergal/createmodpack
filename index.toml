@@ -754,6 +754,11 @@ hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
+file = "mods/mods-optimizer.pw.toml"
+hash = "92b0f0e3b461438a9a65184076a297adf477b084ae3792bf2a70ec942cbd2439"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "b2ac3977559a9e9034c130f8fcf3c943d255f4d61e25693e494aec42b8a5ea12"
 metafile = true
