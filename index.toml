@@ -29,8 +29,18 @@ file = "kubejs/startup_scripts/example.js"
 hash = "e031ad099b8a7a8b240cb94487eaa3d4d533c0f06843192bd49b4bdca88e2307"
 
 [[files]]
+file = "mods/2032-world-height.pw.toml"
+hash = "b617a01ee6459e9f47e27e8d705ca4bed7f58ea2afeb6a90641a80ad033b2b48"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-calibrated.pw.toml"
+hash = "1044401333a68d03f7178901943a75e94228dc9750d9af54daff4513026b1ba7"
 metafile = true
 
 [[files]]
@@ -871,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
