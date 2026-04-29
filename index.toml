@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "1938dd33b85fcb42570430b0a568c17f52c7b86a77b30a980aef34f1782b214f"
+hash = "a996006bb85d8c7b0b472eb0938329f4995668bc431fb4e2e78c2187d3f1a872"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
+hash = "a87e9f44862e34f96a5d37de5162c9ad380d7386272f7946d1b5baa3b7975e45"
 metafile = true
 
 [[files]]
@@ -379,11 +379,6 @@ hash = "7c25c3078e3651fe936d6356c9bb4e5311e95bc102dbdc42b3f00f4467e1c27e"
 metafile = true
 
 [[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "9f6b261565c185ab137b1f4ceceec488e4d6d262b14ef3349c4a88afdac958ae"
 metafile = true
@@ -570,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
@@ -775,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -1085,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "1ddbad6aaf1126aa523d27935c0bbc3a0f10b8208f200f35d6873c22b02530de"
+hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
 metafile = true
 
 [[files]]
