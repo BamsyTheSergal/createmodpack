@@ -134,11 +134,6 @@ hash = "50020be4a6c811b85a9085c93df65a6d7f2e9b28db5bac3c9ac72a84004da9e6"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "108a3e0ea339c42bb3c7fd9cfe1221fec7c1ade0cc4627dd0cb36f10e7fbb078"
-metafile = true
-
-[[files]]
 file = "mods/caupona.pw.toml"
 hash = "ab1184ae78648abe3cf00610be9126b9ac4910e58cfd51aa0225237329a3a67f"
 metafile = true
@@ -911,6 +906,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
+metafile = true
+
+[[files]]
+file = "mods/reconstructed-wands.pw.toml"
+hash = "59226821b9e7d45259019ee822a4480c0edd3b3c7f067b17767a035ebb71529a"
 metafile = true
 
 [[files]]
