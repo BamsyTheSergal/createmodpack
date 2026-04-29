@@ -34,11 +34,6 @@ hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-calibrated.pw.toml"
-hash = "1044401333a68d03f7178901943a75e94228dc9750d9af54daff4513026b1ba7"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -235,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
+hash = "5a5568a484f0f8f3e21db7c5a68c6e306ae9e8bb507a10a3b0823af543e61348"
 metafile = true
 
 [[files]]
@@ -455,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+hash = "a6a1ff8fb716206a716378d045f6faee5fef180b291dff0fdaf446315d82e97a"
 metafile = true
 
 [[files]]
@@ -741,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
