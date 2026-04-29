@@ -639,6 +639,11 @@ hash = "245afe66ca515404f879d33f06bff5518acc47010502c32b87d7a935b9fe9443"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
 file = "mods/little-joys.pw.toml"
 hash = "d674e603509582ba307cf89e8e97d13ceaf5d331f8c72a6ae13f3c5741cdabae"
 metafile = true
@@ -731,11 +736,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
