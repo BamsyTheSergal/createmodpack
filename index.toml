@@ -724,11 +724,6 @@ hash = "f6162f77693b831c3c2d95e23aab9bb8ca880031c7e2349a41a95edfa37ee400"
 metafile = true
 
 [[files]]
-file = "mods/mmv-moogs-missing-villages.pw.toml"
-hash = "959aabea9a6c9d642c9a319a96c49f298293f5ee52bfadc3912bc95e3d17a457"
-metafile = true
-
-[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
 metafile = true
