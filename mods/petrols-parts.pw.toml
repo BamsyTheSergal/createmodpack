@@ -1,13 +1,9 @@
+mode = "metadata:curseforge"
 name = "Petrol's Parts for Create"
 filename = "petrolsparts-1.21.1-1.2.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d228f81fb8d9f9501f0077bcbe6b62852eccf0a1"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7971635
-project-id = 1093607
+url = "https://github.com/BamsyTheSergal/createmodpack/raw/refs/heads/main/petrolsparts-1.21.1-1.2.10.jar"
+hash-format = "sha256"
+hash = "a10d3bae391aca62104af067ced9d321a053b8c14b38904caf7a78b61aa5ddb3"
