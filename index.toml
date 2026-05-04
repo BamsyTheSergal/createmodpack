@@ -760,12 +760,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fab671f369f78495f6f1439b7a94d6febd36a940a1ee14813f793d587a7cdebc"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "7966920d214425c608bea199b72becfff8d00dc26bd798835686cd311afe1111"
+hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
 metafile = true
 
 [[files]]
