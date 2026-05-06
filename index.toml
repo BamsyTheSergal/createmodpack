@@ -134,6 +134,16 @@ hash = "50020be4a6c811b85a9085c93df65a6d7f2e9b28db5bac3c9ac72a84004da9e6"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "108a3e0ea339c42bb3c7fd9cfe1221fec7c1ade0cc4627dd0cb36f10e7fbb078"
+metafile = true
+
+[[files]]
 file = "mods/caupona.pw.toml"
 hash = "ab1184ae78648abe3cf00610be9126b9ac4910e58cfd51aa0225237329a3a67f"
 metafile = true
@@ -311,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "c3d4075abb0bb32676042cf3ab7c0d22e5378dfb2c47bc425ea748acdf8fda56"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "47412667a229a8e16e14c2af0fd091f03275e17885b43819be039704606e40f8"
 metafile = true
 
 [[files]]
@@ -990,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "8ac4153d2c6f22dd251b8b733c15f71a8bd8dd94bdb9165d7eafe14d9d492dc3"
+hash = "d1d4b96f484bd293c7b3078ce78aa98f2e38b2b2c78313b79d2b30dd9564137f"
 metafile = true
 
 [[files]]
@@ -1061,6 +1076,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
+file = "mods/steam-n-rails-neoforge.pw.toml"
+hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
 metafile = true
 
 [[files]]

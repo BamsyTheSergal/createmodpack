@@ -1,0 +1,13 @@
+name = "Create: Radars"
+filename = "create_radar-0.4.5.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLu2Yqfq/versions/MTtvbAzU/create_radar-0.4.5.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "6f16c5af1c1d7bd50c961ae170e63c43aefb88998618aa5b5b2f426a3454daeae4daf175c094d0386385613ea870e9663b3b69ef08ead632c3245034c19e2363"
+
+[update]
+[update.modrinth]
+mod-id = "BLu2Yqfq"
+version = "MTtvbAzU"
