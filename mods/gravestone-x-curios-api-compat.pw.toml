@@ -3,8 +3,8 @@ filename = "gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3674669dcacef907369219ed3869c83889e4f1ee"
+hash-format = "sha256"
+hash = "d8869fb374a754dcbf61d99d3df20d25000f9079aa16f0dec3f78f30cf823285"
 mode = "metadata:curseforge"
 
 [update]

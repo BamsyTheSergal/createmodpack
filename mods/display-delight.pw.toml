@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yXepZhp8/versions/pU6Dxie9/displaydelight-1.5.2.jar"
-hash-format = "sha512"
-hash = "35244906b6c09b9c237c7f753cd88b4e4b988e1c37022a6db8873e8a6d8b6a2d725c820c89ed9f13c80f3e4dd4533bf79a4e9d667567686854d9aecc0f60f5ae"
+hash-format = "sha256"
+hash = "5a958be24fa0e8ebf5f7263bab292f6bff20021a2963ca210d1745dc29116de8"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "excavatedvariants-4.3.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca8f84c616949f31d055a557339b4a2d2cec0da9"
+hash-format = "sha256"
+hash = "3eb6a00ef1eff1738d9894195dd2a5b58ad81774fdd3ea3904fcda0ed956c2da"
 mode = "metadata:curseforge"
 
 [update]

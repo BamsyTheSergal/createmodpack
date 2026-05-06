@@ -3,8 +3,8 @@ filename = "inventorysorter-1.21.1-24.0.24.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c842959ecb1927e1c7049d41d024fadf329a584"
+hash-format = "sha256"
+hash = "6fde143f12b608aec80f590f16ff91787043796dee6642f46f82e4df029c6544"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "botanypotstiers-neoforge-1.21.1-7.0.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "005b8fffd048dd9cde902b127b7d2ed104634806"
+hash-format = "sha256"
+hash = "2b7e569b7f095d9c72653e9f37b06558afe136fd6ef4afe2c524a2927147af35"
 mode = "metadata:curseforge"
 
 [update]

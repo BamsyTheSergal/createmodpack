@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EltpO5cN/versions/NeEGZYwe/lootr-neoforge-1.21.1-1.11.37.119.jar"
-hash-format = "sha512"
-hash = "5564676ba61e91a5bbb0ceb4e2473be4849a111dbdb27389c87ad2a1404f7eda61be358ecdcdfb0706b0e21ac8c7d432b8ca819413020ed14bf6cdf8516dce1e"
+hash-format = "sha256"
+hash = "47fd639e3e80c7ab435c24f6176be64e9afe0e41c4c68907e1b5cd723b726511"
 
 [update]
 [update.modrinth]

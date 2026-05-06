@@ -3,8 +3,8 @@ filename = "bookshelf-neoforge-1.21.1-21.1.81.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+hash-format = "sha256"
+hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "hc2nerf-Neoforge-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "782c29dcd40b86e7bb9eab0e70c10f152e538fb8"
+hash-format = "sha256"
+hash = "fdf3f4c7f093c74d03edbb809e69ddf48e5a38442862b22a493da540f00634d3"
 mode = "metadata:curseforge"
 
 [update]

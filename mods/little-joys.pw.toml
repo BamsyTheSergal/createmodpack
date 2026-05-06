@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/v0j2ftEp/versions/axuBGKfh/littlejoys-neoforge-1.21.1-21.1.12.jar"
-hash-format = "sha512"
-hash = "5626264bd239873a2a87f7a0a5a4e6c37df1a9a18a229066b2a77cde35579ca13703f78c509272df368e5fdd9758cc19a4a776ddb5fc9a0647747b0d3624e47d"
+hash-format = "sha256"
+hash = "3acb41cddb91ff8e8191d97d934c9712f9b9634870cfdd8c0f8d23a484074e0b"
 
 [update]
 [update.modrinth]

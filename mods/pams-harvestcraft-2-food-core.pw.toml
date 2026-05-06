@@ -3,8 +3,8 @@ filename = "pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dc2b5671914879d4731034668028f4d8cbcd775c"
+hash-format = "sha256"
+hash = "acd5dd380eafc3f317b67231a2355c204cab254dfdf4ab1f25c084fdd3d317b9"
 mode = "metadata:curseforge"
 
 [update]

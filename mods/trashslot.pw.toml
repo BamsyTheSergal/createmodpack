@@ -3,8 +3,8 @@ filename = "trashslot-neoforge-1.21.1-21.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee869412c35848757ced95b1ac84f4c132ebbe7b"
+hash-format = "sha256"
+hash = "9e1d31ba8b29d2ba2dbc558c5ec86dbfde8f7cd8bc0db2ab75e25e428780ae39"
 mode = "metadata:curseforge"
 
 [update]

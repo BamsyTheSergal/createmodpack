@@ -3,8 +3,8 @@ filename = "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2767bb73a33358b7796239310416b13db476f0b4"
+hash-format = "sha256"
+hash = "8dd9e285da0bd01c24f2cddc14182c01b570197dc2a9c9d5aa85e0b6bae47570"
 mode = "metadata:curseforge"
 
 [update]

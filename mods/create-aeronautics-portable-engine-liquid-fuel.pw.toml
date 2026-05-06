@@ -3,8 +3,8 @@ filename = "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f9602c7f9a8268507a835bfa47db1512d356dae7"
+hash-format = "sha256"
+hash = "39bd87ba2731d2f2416f464120f9019e733558156dbcf85552ef3d5e0703b11b"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "dynamicassetgenerator-6.1.2-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07a39356cd5820d54d0be6384c6f54c609a51d50"
+hash-format = "sha256"
+hash = "31f6cca89635683816ef3aac4ecdb29e5d2374fe41f6741c86c254d91c74d61a"
 mode = "metadata:curseforge"
 
 [update]

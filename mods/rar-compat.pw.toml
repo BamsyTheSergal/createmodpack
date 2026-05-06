@@ -3,8 +3,8 @@ filename = "reliquified_artifacts-1.21.1-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7966c58773e7e4e91a619f2d91bcef46cef2b71d"
+hash-format = "sha256"
+hash = "d67066dcd2fed8bee61a572b81d194a9e21dafe7be506004cd859b3983dca226"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0cf7f668fdedef93446f33215484913991185102"
+hash-format = "sha256"
+hash = "d61dda7d00ab69bfaef45854df01ab6cfd64243d7f9a5ae870c89dd954247a8c"
 mode = "metadata:curseforge"
 
 [update]

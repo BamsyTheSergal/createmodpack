@@ -3,8 +3,8 @@ filename = "suggestion-tweaker-1.20.6-1.5.2-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36ebdcb1a4f5e33c445f4c5b9c4085545cb222be"
+hash-format = "sha256"
+hash = "434be13b927463ce8f8c4684f03ed28ac29ff589b1f14a0b5dfcce9196e7a209"
 mode = "metadata:curseforge"
 
 [update]

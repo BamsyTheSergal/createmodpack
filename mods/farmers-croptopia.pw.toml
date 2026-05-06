@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nyIn6Lmk/versions/qEMqMnT5/farmers_croptopia-1.21.1-3.2.2.jar"
-hash-format = "sha512"
-hash = "097989c10e8778ea971da010c5a17ef87cd927c5b2311ab664dc3da6599d4fed2f6bb7d9d603f97089c5c63c342b2e3df6262c79f2051cec67805a9ac5f44692"
+hash-format = "sha256"
+hash = "77794c53f47cb6650569169e3a229e0d5cb7bcb8ceb780f0e0d917a54f3478c8"
 
 [update]
 [update.modrinth]

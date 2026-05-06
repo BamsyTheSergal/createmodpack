@@ -3,8 +3,8 @@ filename = "croptopia-neoforge-1.21.1-4.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f03480a38c5d9113d22ae2012c69b165079c0e0"
+hash-format = "sha256"
+hash = "6bbca7da92548a727abd29bc04fbd659dff87718ae24a1558d8ae83f654c6574"
 mode = "metadata:curseforge"
 
 [update]

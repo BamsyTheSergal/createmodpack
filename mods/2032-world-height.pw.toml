@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JTNe4RSx/versions/4isbwBRE/2032-world-height-1.1.jar"
-hash-format = "sha512"
-hash = "c6451c9875a7bfcd34911c0e124bbfbdfb7ea7d180731a653904294874a608b7c2bd2e165a759e5bc8fbddf7ed4a6dd9fe3bd38ae08642bd030b985fa534b49e"
+hash-format = "sha256"
+hash = "51658d250f6c2154108e0a07f0c9d45741e714164fadc9d118bd71584b09adb4"
 
 [update]
 [update.modrinth]

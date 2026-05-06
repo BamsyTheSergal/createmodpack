@@ -3,8 +3,8 @@ filename = "buildinggadgets2-1.3.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "666a155981e3cd231f67809b9e2a0238377bbbfc"
+hash-format = "sha256"
+hash = "acae3b628fa60ae8d34059b40c696ea282c01d20b14d32a506c4f85dd357b114"
 mode = "metadata:curseforge"
 
 [update]

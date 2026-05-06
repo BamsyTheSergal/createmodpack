@@ -3,8 +3,8 @@ filename = "AmbientSounds_NEOFORGE_v6.3.7_mc1.21.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "aeb8c151f30ea96a660c96366fe9c2972adaeb1b"
+hash-format = "sha256"
+hash = "857c6d13d2774a3f4318d274c306213354d8ca659cd6a5739b1815a9e5c1c148"
 mode = "metadata:curseforge"
 
 [update]

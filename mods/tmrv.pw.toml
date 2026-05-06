@@ -3,8 +3,8 @@ filename = "toomanyrecipeviewers-0.7.3+mc.21.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "266605572d63d834b99e930e477ee01b0b7082df"
+hash-format = "sha256"
+hash = "1b40971e4dc2dc29479eceace3354ef52fa960ea27c9948f68447ae9d92a36f5"
 mode = "metadata:curseforge"
 
 [update]

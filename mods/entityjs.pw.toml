@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/7yLp83Iz/entityjs-1.4.5-1.21.jar"
-hash-format = "sha512"
-hash = "cc9e9fa9446f5e9b94be9f2a91af2a8a5213b8d66e98802f9c1cef8e31bb6d1f46fc1fb781451e15296ede2ac0e52c2e06414e12d74c653a712889efc6f0abbe"
+hash-format = "sha256"
+hash = "f6127f3b4fe84f173460d0c303dee6e5c1986eb19f1fa94b45e996674c10d617"
 
 [update]
 [update.modrinth]

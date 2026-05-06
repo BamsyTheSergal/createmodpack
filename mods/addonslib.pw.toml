@@ -3,8 +3,8 @@ filename = "addonslib-neoforge-1.21.1-1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "16ff192afe3249a4fae754a8fc134bd07a58b8c4"
+hash-format = "sha256"
+hash = "38231dea22b17f5ebab8de884493f6eddbd9b46c95b64f4d78f92ca20149710f"
 mode = "metadata:curseforge"
 
 [update]

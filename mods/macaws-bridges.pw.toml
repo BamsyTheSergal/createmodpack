@@ -3,8 +3,8 @@ filename = "mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "71ece28129789a2123cf07e79938f488d8675bb2"
+hash-format = "sha256"
+hash = "070b817d3282760d9789b22ce13779613c8b558e02012fd5884d343175d88fd9"
 mode = "metadata:curseforge"
 
 [update]

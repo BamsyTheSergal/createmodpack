@@ -3,8 +3,8 @@ filename = "resourcefullib-neoforge-1.21-3.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+hash-format = "sha256"
+hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 mode = "metadata:curseforge"
 
 [update]

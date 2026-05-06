@@ -3,8 +3,8 @@ filename = "mcw-lights-1.1.5-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "13c1107caf26b2c60d8626b3658b26cc7f634b38"
+hash-format = "sha256"
+hash = "b27cd68a7673874b0f6d765bdef2a022666cc07ca0e5057209a16d1a535da9e4"
 mode = "metadata:curseforge"
 
 [update]

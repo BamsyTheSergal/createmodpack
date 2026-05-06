@@ -3,8 +3,8 @@ filename = "Explorify v1.6.4 f15-88.mod.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a9b99242bdb9437396f5a3c78decc567adab6a5"
+hash-format = "sha256"
+hash = "dcc5340dc771c61358f53b9818594e9e588d9af81c0a1e906c373fb14d9be7a3"
 mode = "metadata:curseforge"
 
 [update]

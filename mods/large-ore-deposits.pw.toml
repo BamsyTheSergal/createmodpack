@@ -3,8 +3,8 @@ filename = "AdLods-1.21.1-9.1.3.0-NeoForge-build.0768.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "86fea187efe30b21a6289ced5f34c9842840caad"
+hash-format = "sha256"
+hash = "f5473881ede1329f0c0861ef92c057a2cbef689ca5aaa4f8cbb44acfcaf44514"
 mode = "metadata:curseforge"
 
 [update]

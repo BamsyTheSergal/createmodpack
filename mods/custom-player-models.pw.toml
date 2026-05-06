@@ -3,8 +3,8 @@ filename = "CustomPlayerModels-1.21-0.6.25a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c896082b4fd9b6ee8895abead19ac29aa6c4df1f"
+hash-format = "sha256"
+hash = "6fd4dd870435b4a9525efa062ded3551d84c67531f42cbe5ae7811222539c76c"
 mode = "metadata:curseforge"
 
 [update]

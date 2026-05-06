@@ -3,8 +3,8 @@ filename = "pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "85d54e1d4d32f669d3f183945dc813360263ca91"
+hash-format = "sha256"
+hash = "64c34129468b0d75738cf0faf667a52067d2db1e72ee8564c0a8f850bbf154c7"
 mode = "metadata:curseforge"
 
 [update]

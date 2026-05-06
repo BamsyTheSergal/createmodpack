@@ -3,8 +3,8 @@ filename = "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4bb7e1d28eef19f87438881b0f582a15297b95ae"
+hash-format = "sha256"
+hash = "f04b51518f75c8a7d5fe1be5589dbcb8a7b0d4f67373ca903578804d971b1286"
 mode = "metadata:curseforge"
 
 [update]

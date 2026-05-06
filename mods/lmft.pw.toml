@@ -3,8 +3,8 @@ filename = "lmft-1.1.1+1.21.9-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "492d597ca216f9d099be112e77a9a5c7ed138770"
+hash-format = "sha256"
+hash = "932765aae037197e8acfe7a90d9e473b143e3e785655c24c02b30c7013cd4458"
 mode = "metadata:curseforge"
 
 [update]

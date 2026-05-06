@@ -3,8 +3,8 @@ filename = "Caupona-1.21.1-0.5.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "40d94616d321d3264a58ed22b0e1ca4ac0781384"
+hash-format = "sha256"
+hash = "0a54cc4fc5432bca293f64408e53336348714f5ff748cb33fedef7fa15c4da35"
 mode = "metadata:curseforge"
 
 [update]

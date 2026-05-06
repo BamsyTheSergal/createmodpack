@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bCxmmxKN/versions/9w8TG5JN/OverweightFarming-1.21.1-2.2.0-NeoForge.jar"
-hash-format = "sha512"
-hash = "32aaa8a506019ceefc9e6dfda2617b217911b92e25d11451d5afb7f022c0ad7274045e31230667421f1837193c04bd87dda0a80bf7ab0774c3fa96870f84a97a"
+hash-format = "sha256"
+hash = "69a98816850dcb42bb735c12c48b440670023067fe8ebe258a19b96040d842d4"
 
 [update]
 [update.modrinth]

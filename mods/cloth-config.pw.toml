@@ -3,8 +3,8 @@ filename = "cloth-config-15.0.140-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+hash-format = "sha256"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 mode = "metadata:curseforge"
 
 [update]

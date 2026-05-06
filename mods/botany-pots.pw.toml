@@ -3,8 +3,8 @@ filename = "botanypots-neoforge-1.21.1-21.1.41.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4f216887a3b95d6abde0f2458a94487523531a1c"
+hash-format = "sha256"
+hash = "8c42dd72effde3fc0f7de1bcfba1637385168165f03e866cab5603063027e8a7"
 mode = "metadata:curseforge"
 
 [update]

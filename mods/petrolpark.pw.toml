@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ik2WZkTZ/versions/5LJl0ioZ/petrolpark-1.21.1-1.4.32.jar"
-hash-format = "sha512"
-hash = "dbbbb70c1f331f3043d24448ca6d3ec71acab5cf05623d709ac253c8b2f97092577919ff5233493ac945bc2a13e9e153c968fea8fcf21bcb1119f00dadd631e0"
+hash-format = "sha256"
+hash = "38a2dd815935f5f3e0ddf5be8ca245125f6b0c22c202395936a36d26b3113d18"
 
 [update]
 [update.modrinth]

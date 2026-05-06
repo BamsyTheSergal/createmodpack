@@ -3,8 +3,8 @@ filename = "configured-neoforge-1.21.1-2.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e977d86eec39d49295df4e2c4265d6710ae065e8"
+hash-format = "sha256"
+hash = "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15"
 mode = "metadata:curseforge"
 
 [update]

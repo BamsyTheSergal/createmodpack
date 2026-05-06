@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/70AHjgqV/versions/uzv8gBFo/SeedDelight-NeoForge-1.21-1.0.1%20%281%29.jar"
-hash-format = "sha512"
-hash = "7d11acd6d09b772a7e3dcf9beca0a62e7a29f14969bba34619478f422df640d3e07a227d10e8b57d1f0963d34751436f5ed057906edb549da1d8554cebd46981"
+hash-format = "sha256"
+hash = "3a830d9f9c586fde5688078f739354ff04f19cf8caf4c07eeb1e774b3d66473c"
 
 [update]
 [update.modrinth]

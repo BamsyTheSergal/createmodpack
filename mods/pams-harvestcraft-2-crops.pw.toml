@@ -3,8 +3,8 @@ filename = "pamhc2crops-NEOFORGE-1.21.1-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "13b118fba0c244df6162313a1cc51467ef830ce3"
+hash-format = "sha256"
+hash = "a50b50f8df3937230d90bc7158218ef9ba4400dfc58b7f4725635ea1491a3c16"
 mode = "metadata:curseforge"
 
 [update]

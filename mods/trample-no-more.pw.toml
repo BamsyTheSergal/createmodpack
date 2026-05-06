@@ -3,8 +3,8 @@ filename = "tramplenomore-neoforge-1.21.1-21.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dad922bb6597aa32cb99534f6ca321d552217b90"
+hash-format = "sha256"
+hash = "f53d390067edd982c340fb6cbead956d85b13e228af3c0bdf712266bfbed7e53"
 mode = "metadata:curseforge"
 
 [update]
