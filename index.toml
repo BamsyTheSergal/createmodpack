@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "520851ed9d7710a75650e2ccd09d4bd9a62612fb27f5c15ce5af9f66461d1f64"
+hash = "8ac4153d2c6f22dd251b8b733c15f71a8bd8dd94bdb9165d7eafe14d9d492dc3"
 metafile = true
 
 [[files]]
