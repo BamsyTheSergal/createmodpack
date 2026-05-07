@@ -144,6 +144,11 @@ hash = "db46f45ac8ac3b9179dee1a090bc6c57032f0a0768f20098f087a2188dae911f"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/caupona.pw.toml"
 hash = "3fdc29cc2ddcff0171e8065fdef695e39a51012193056616a72e17500bd7ed98"
 metafile = true
