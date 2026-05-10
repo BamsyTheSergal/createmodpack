@@ -1,0 +1,13 @@
+name = "Let Me Join!"
+filename = "letmejoin-0.23a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "545d3b502fe7d1fe8179a6f2dcfa44aa7acb8383"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7748934
+project-id = 1484596

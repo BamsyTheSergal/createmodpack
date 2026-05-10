@@ -649,6 +649,11 @@ hash = "4b476a6cc649eb9e3404ce7bf933e30ce8dc4ef542cceffa270e896325ce46c7"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "260078e5c0aa0e8ec0412aeb13eea523c9bbb7e4de76e2171351184f532d1f5f"
 metafile = true
@@ -721,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "57c4534e8a7ca2caa418c1e871ed8e5248437a916cb9646f49fec5feca15e08c"
+metafile = true
+
+[[files]]
+file = "mods/let-me-join.pw.toml"
+hash = "8521e571b8043f2764b2fedfbc8d95111d7cd83d0dcc390191f778df0d02c9cd"
 metafile = true
 
 [[files]]
