@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
-hash = "0da0fc72559157a47869cb78b5a8315c75c070252e52c7406a3426f2436669ec"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
 metafile = true
 
 [[files]]
@@ -326,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "cbf89fb5b9c24a92e7c865387c297c6d00fa70d3ab6a4391824aab07467e1765"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
