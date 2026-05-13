@@ -14,6 +14,7 @@ ServerEvents.tags('item', event => {
   event.add('minecraft:sponge_crafting_material', 'minecraft:dead_fire_coral_block')
   event.add('minecraft:sponge_crafting_material', 'minecraft:dead_horn_coral_block')
   event.add('sliceanddice:allowed_tools', '#minecraft:pickaxes')
+  event.add('createaddition:plants','farmersdelight:straw')
   // Remove items from tags
   event.remove('minecraft:coral_blocks', 'minecraft:tube_coral_block')
   event.remove('minecraft:coral_blocks', 'minecraft:brain_coral_block')

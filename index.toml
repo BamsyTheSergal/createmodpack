@@ -22,7 +22,7 @@ hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "5b8dbe7cf44eb9f120f292381eecc14f319413d0ee68e4239250274221e67176"
+hash = "3393ab2b1d624c850921ff471ef4aa2bdb7c6fcef8d4d6df89693ff564a6ff58"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -159,6 +159,11 @@ hash = "3fdc29cc2ddcff0171e8065fdef695e39a51012193056616a72e17500bd7ed98"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "c09e2c7df60d3d247a443a8b788d1fc55278246e3e1e151b5a27e31b01ee0dbc"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d156e28ca168274fe7deb0685b3fe752cbef1e07169d89c3c422e451adc3fe34"
 metafile = true
@@ -196,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "6167aed1a6eb1b4f03d1f4b68f84a5d8fb05717073dceacbcf5a715199c4d489"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
 
 [[files]]
@@ -301,6 +311,16 @@ metafile = true
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "d31fbf89364ee8130adca0dfba3d6aa774d1771632aa60f3f13e1b4ed9e073e5"
 metafile = true
 
 [[files]]
@@ -914,6 +934,11 @@ hash = "f510b143e3bd823f8337e6bf8736fdcb02454adf457595eb40380740c4d1b683"
 metafile = true
 
 [[files]]
+file = "mods/nirvana.pw.toml"
+hash = "4f8b60eca8a7bd5bf1f154f4f3585ee44c8f6aa8b97b7e01ab865559c35ce363"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "65f1145d722872e670c4b4817b0d78abcc56284b7014b291eb90c73bcdb5f693"
 metafile = true
@@ -1006,6 +1031,21 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "95fe79ecdb1e1da0aa00bbc7a113b117353382265350b570b23c43bf9ddde7d7"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "f1e3ffb76a0bc1b78848c1dca7e6bad3d54d38c3c5445c0690dc1c9ba5582896"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "477285502899b4193764effbbe3118a8e7d3731619a559adc184a4aa2d208f96"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
 metafile = true
 
 [[files]]
