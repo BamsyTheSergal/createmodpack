@@ -22,7 +22,7 @@ hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "bb08cd90eeb292a41211af5adc634e664ed9bc0a97552a4c2e103e85fe9eb559"
+hash = "5b8dbe7cf44eb9f120f292381eecc14f319413d0ee68e4239250274221e67176"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -309,6 +309,11 @@ hash = "0dde6f3d7b241e2b7fa958bbed4d24d76b8cf6d2321ed88f90b00c1cba226b24"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "221f838d7f1174a844b5213b140740a06054bda5b7d0426047cbea3e403db8a0"
 metafile = true
@@ -376,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "d2266c7c80da700896d9897418704c5d3cc8e8c874b95989f81ef4f441535f83"
+metafile = true
+
+[[files]]
+file = "mods/create-train-lights.pw.toml"
+hash = "ceda03b1da3ce385d3dec0dcca9a7e7f032eb00b990eea8f1226747202f353bc"
 metafile = true
 
 [[files]]
@@ -654,6 +664,11 @@ hash = "4b476a6cc649eb9e3404ce7bf933e30ce8dc4ef542cceffa270e896325ce46c7"
 metafile = true
 
 [[files]]
+file = "mods/industrialdeco.pw.toml"
+hash = "913b6478631917613afa3600a31e982df54b73e2836537dd60aeeece2f411ffd"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
@@ -819,6 +834,11 @@ hash = "e3c85d6f04be8cdc46c59022813bd833be87c5235050f3f5f42a2fcce386d8c1"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "fc40fbc023c67db016e4c0d72f25fcabb708bb17b0749254c00f9b260467ec3f"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "767593bbddf58027e4291530065df56f395b5f9e7c1ba845f11fe79d47381d12"
 metafile = true
@@ -831,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/mimi-mod.pw.toml"
 hash = "7082d602806058a4e87c56eb4a563152bf56d7f198d6fbe38447a56e7cb95069"
+metafile = true
+
+[[files]]
+file = "mods/minopp.pw.toml"
+hash = "ad45deee7f144ba4ca0b5cca09d8d0d649eee55ae3cd0afd2e21581e23019a20"
 metafile = true
 
 [[files]]
@@ -1096,6 +1121,11 @@ metafile = true
 [[files]]
 file = "mods/snad.pw.toml"
 hash = "4be9dac9a8d4099f58114cebd623d7efb1dcd6000ad7523d6a04149454921799"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]

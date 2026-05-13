@@ -38,3 +38,38 @@ ServerEvents.recipes(event => {
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
 });
+ServerEvents.recipes(event => {
+  event.remove({mod: 'create_jetpack'})
+});
+
+ServerEvents.recipes(event => {
+  event.recipes.create.crushing(['silentgear:crushed_shulker_shell', CreateItem.of('silentgear:crushed_shulker_shell', 0.5), CreateItem.of('minecraft:shulker_shell', 0.05)], 'minecraft:shulker_shell')
+});
+
+ServerEvents.recipes(event => {
+  // Add a mechanical crafting recipe
+  event.recipes.createMechanicalCrafting(
+    Item.of('create_jetpack:jetpack'),
+                                         [
+                                           " PSP ",
+                                         "PYXYP",
+                                         "PCECP",
+                                         " C C "
+                                         ],
+                                         {
+                                           E: '#c:armors/elytra',
+                                           C: 'create:chute',
+                                           X: 'create:copper_backtank',
+                                           S: 'create:shaft',
+                                           Y: 'create:precision_mechanism',
+                                           P: '#c:plates/brass'
+                                         }
+  )
+});
+ServerEvents.recipes(event => {
+  event.smithing(
+    'create_jetpack:netherite_jetpack',  // output item
+    'create_jetpack:jetpack',    // base item
+    'minecraft:netherite_ingot'   // addition item
+  )
+})
