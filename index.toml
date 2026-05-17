@@ -22,7 +22,7 @@ hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "3393ab2b1d624c850921ff471ef4aa2bdb7c6fcef8d4d6df89693ff564a6ff58"
+hash = "fd67414a4d76331ac46100ed77b71e77ec08f2486351b6288795a62c652216e9"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "c8b16a9466293917d779a51b05a3d7678d94c93c422c56369b3107b9aee72e37"
+metafile = true
+
+[[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
 metafile = true
 
 [[files]]
@@ -214,6 +219,11 @@ hash = "8032ba9bce9721728358270bbd5a1eca543333862b1d4b4684ca6624ad71f1e3"
 metafile = true
 
 [[files]]
+file = "mods/confluence-botany-pots.pw.toml"
+hash = "7d030154071d3bdd6a9e1a1e04d2a9fcc825d7b240fba6c5085174c0dac9038d"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
@@ -289,6 +299,11 @@ hash = "35162e85f78aeef008f8b99187c486fb375e6e8a2cdd6f773db338ad3b702873"
 metafile = true
 
 [[files]]
+file = "mods/create-buzzy-bees.pw.toml"
+hash = "3e012a3b06c19698655f6a13da335ca0c93ec97d484875d32ff0dab2139c8cda"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "c15f6afaee08ec2c08ba49aad7b44b998ddf4b5200ecab4af3c4b91bea0aaa61"
 metafile = true
@@ -325,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "0dde6f3d7b241e2b7fa958bbed4d24d76b8cf6d2321ed88f90b00c1cba226b24"
+hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
 metafile = true
 
 [[files]]
@@ -375,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "f3be5aa7313ab516a4d7f2c0f3e7fe5dcd570bb4e0de7c33787d88ae6354b7ee"
+hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
@@ -396,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "9bb395121e2b70fbced13cc5360bdd725e2669735a24de0bc7cf316fc38af042"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
@@ -534,6 +554,11 @@ hash = "b6f619c7b24599b6e29cfa8584c947d7b94471d4e627bab7717baae01dce6287"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1666cc66ce952c7ff1f6648da3af5d46859ffccb35041ab3dc33a724d4771057"
 metafile = true
@@ -640,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ddaead0beba13f16e172a84bfd0185762f8a08da926e7e6ac453750459ea8082"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
@@ -684,6 +709,11 @@ hash = "4b476a6cc649eb9e3404ce7bf933e30ce8dc4ef542cceffa270e896325ce46c7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
+metafile = true
+
+[[files]]
 file = "mods/industrialdeco.pw.toml"
 hash = "913b6478631917613afa3600a31e982df54b73e2836537dd60aeeece2f411ffd"
 metafile = true
@@ -711,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "1d07f3f23d8a00c4830a4f0068918e06251c28d8d52452b3ea5d19302127b2d1"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "de4a88126c0c9ab4304ff4b6a9cf708d2587d0f572d035b51b3384e784dc6b2e"
 metafile = true
 
 [[files]]
