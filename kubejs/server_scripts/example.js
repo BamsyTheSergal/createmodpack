@@ -15,6 +15,8 @@ ServerEvents.tags('item', event => {
   event.add('minecraft:sponge_crafting_material', 'minecraft:dead_horn_coral_block')
   event.add('sliceanddice:allowed_tools', '#minecraft:pickaxes')
   event.add('createaddition:plants','farmersdelight:straw')
+  event.add('c:ingots','createpropulsion:platinum_ingot')
+  event.add('c:nuggets','createpropulsion:platinum_nugget')
   // Remove items from tags
   event.remove('minecraft:coral_blocks', 'minecraft:tube_coral_block')
   event.remove('minecraft:coral_blocks', 'minecraft:brain_coral_block')
@@ -38,6 +40,8 @@ ServerEvents.recipes(event => {
 
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
+  event.shapeless('createpropulsion:platinum_ingot', ['createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget']).id('bamsy:platinum_nugget_to_ingot');
+
 });
 ServerEvents.recipes(event => {
   event.remove({mod: 'create_jetpack'})
