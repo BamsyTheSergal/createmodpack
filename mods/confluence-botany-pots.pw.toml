@@ -1,0 +1,13 @@
+name = "Botany Pots Compatibility"
+filename = "confluence_botany_pots-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cddf1a99dba81888eaf05a4e8798f8c045e3b86f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7908360
+project-id = 1510531
