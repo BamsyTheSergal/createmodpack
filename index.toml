@@ -429,6 +429,11 @@ hash = "ceda03b1da3ce385d3dec0dcca9a7e7f032eb00b990eea8f1226747202f353bc"
 metafile = true
 
 [[files]]
+file = "mods/create-train-track-rail-grinding.pw.toml"
+hash = "6b5bdeb43a7e2667bf7f9c40e4abe82839231a85e6b369286e5fa6b6281a944c"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "92bc667054a2bc5c77994bb5e1b4db2e7b2a128d600a189a12b198c602e91be2"
 metafile = true
@@ -721,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "a40e68d8848a871a5d53ebbc5c73db8cc1dfe76273a6bcef2a0e0d4d8b9299d8"
 metafile = true
 
 [[files]]
