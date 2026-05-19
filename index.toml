@@ -1084,6 +1084,11 @@ hash = "477285502899b4193764effbbe3118a8e7d3731619a559adc184a4aa2d208f96"
 metafile = true
 
 [[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "0aa619b42ae48cb97f55d1485781f5220585818b9b67f90718e50c6aa00d84af"
+metafile = true
+
+[[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
 metafile = true
