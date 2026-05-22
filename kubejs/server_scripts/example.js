@@ -41,15 +41,18 @@ ServerEvents.recipes(event => {
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
   event.shapeless('createpropulsion:platinum_ingot', ['createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget', 'createpropulsion:platinum_nugget']).id('bamsy:platinum_nugget_to_ingot');
-
+  event.recipes.create.compacting(['3x create:crushed_raw_platinum', CreateItem.of('create_simple_ore_doubling:slag', 0.15)], 'createpropulsion:raw_platinum').heated();
+  event.recipes.create.crushing(CreateItem.of('minecraft:gunpowder', 0.03), 'supplementaries:flint_block');
 });
 ServerEvents.recipes(event => {
   event.remove({mod: 'create_jetpack'})
 });
 
 ServerEvents.recipes(event => {
-  event.recipes.create.crushing(['silentgear:crushed_shulker_shell', CreateItem.of('silentgear:crushed_shulker_shell', 0.5), CreateItem.of('minecraft:shulker_shell', 0.05)], 'minecraft:shulker_shell')
+  event.recipes.create.crushing(['silentgear:crushed_shulker_shell', CreateItem.of('silentgear:crushed_shulker_shell', 0.5), CreateItem.of('minecraft:shulker_shell', 0.05)], 'minecraft:shulker_shell');
+  event.recipes.create.crushing(['18x minecraft:sugar', CreateItem.of('3x minecraft:sugar', 0.9), CreateItem.of('3x minecraft:sugar', 0.6), CreateItem.of('3x minecraft:sugar', 0.3)], 'quark:sugar_cane_block')
 });
+
 
 ServerEvents.recipes(event => {
   // Add a mechanical crafting recipe
@@ -77,4 +80,48 @@ ServerEvents.recipes(event => {
     'create_jetpack:jetpack',    // base item
     'minecraft:netherite_ingot'   // addition item
   )
-})
+  event.custom({
+    "type": "create_dragons_plus:coloring",
+    "color": "white",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      }
+    ],
+    "results": [
+      {
+        "id": "biomesoplenty:white_sand"
+      }
+    ]
+  }).id('bamsy:sand_to_white_sand');
+  event.custom({
+    "type": "create_dragons_plus:coloring",
+    "color": "orange",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      }
+    ],
+    "results": [
+      {
+        "id": "biomesoplenty:orange_sand"
+      }
+    ]
+  }).id('bamsy:sand_to_orange_sand');
+  event.custom({
+    "type": "create_dragons_plus:coloring",
+    "color": "black",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      }
+    ],
+    "results": [
+      {
+        "id": "biomesoplenty:black_sand"
+      }
+    ]
+  }).id('bamsy:sand_to_black_sand');
+});
+
+
