@@ -22,7 +22,7 @@ hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "fd67414a4d76331ac46100ed77b71e77ec08f2486351b6288795a62c652216e9"
+hash = "b544d8ea6922efa7eb3584bd123f015c41b71580df81ba2e71165f55444a0a82"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -214,6 +214,11 @@ hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "8032ba9bce9721728358270bbd5a1eca543333862b1d4b4684ca6624ad71f1e3"
 metafile = true
@@ -271,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "46ad6fe15b884b4425a351b0bc5bdd99b9b82c483df21f58d99983a7c62cf5bf"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
 
 [[files]]
@@ -384,6 +394,11 @@ hash = "bf5c040ae0a60299f4fb06fe5fbd2d073db54a7027d3b681f2b38d1666690171"
 metafile = true
 
 [[files]]
+file = "mods/create-more-wrenchables.pw.toml"
+hash = "5e3456a4e59542b419b0393fe4f86c0d544698c26750bd8f44113d7a5ffa3e4b"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "1ce5b71dc76045a66749be8e5cdf3a49067ea9eafc0f0390ca4ed3351178ab9a"
 metafile = true
@@ -416,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
+metafile = true
+
+[[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
 metafile = true
 
 [[files]]
@@ -785,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-botany-pots.pw.toml"
-hash = "38a559455d96eed9a770e0c31f7756754aa27fe8dac1ef7b07c047bde06d6d00"
+hash = "9829e76e6d6ab6873421747eb628bb799cadc1fe4b5c75fab7fffa08f4165f86"
 metafile = true
 
 [[files]]
@@ -1356,6 +1376,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "68e67e35fc0ace9aa5f970b35f89b9f32daf649ebfc7a8a3f4282c8b9632ae2a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
