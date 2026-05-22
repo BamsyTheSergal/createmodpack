@@ -3,8 +3,8 @@ filename = "letmejoin-0.23a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "545d3b502fe7d1fe8179a6f2dcfa44aa7acb8383"
+hash-format = "sha256"
+hash = "042e8658f011a67ad53390060e27a4a50ac4de826d80f9f7c7391a7b6358ff56"
 mode = "metadata:curseforge"
 
 [update]

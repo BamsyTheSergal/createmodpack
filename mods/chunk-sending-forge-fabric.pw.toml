@@ -3,8 +3,8 @@ filename = "chunksending-1.21-2.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "636a121a3252028bb0ec14a3f39f9bbf723ddacd"
+hash-format = "sha256"
+hash = "0e75df38c24984609800cb1ff52f4f132627846783503d5fed6f413f0fd35d31"
 mode = "metadata:curseforge"
 
 [update]

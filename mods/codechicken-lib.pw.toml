@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2gq0ALnz/versions/gQ1srSKh/CodeChickenLib-1.21.1-4.6.1.526.jar"
-hash-format = "sha512"
-hash = "2d4efdc64531d5bb8133a247bc22a0728ab99dbcb2842ad0303b2242afd0ddc1b90cd43f8ed8562f651d8d9e228c95d15d73b4b63b3980286450de2df9c0e5ef"
+hash-format = "sha256"
+hash = "e35cb0ca3e3aeb87e1e171242454426d22edf517b06dc38e5c3d5b6d44d6bc04"
 
 [update]
 [update.modrinth]

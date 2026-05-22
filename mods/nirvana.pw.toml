@@ -3,8 +3,8 @@ filename = "nirvana-forge-2.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92c70cb2884112cd944fc818a32ce3b9e7acd1ee"
+hash-format = "sha256"
+hash = "023d7d7fd518196a96d6da3f514d6e2589629b2ba107dd5396858dbb588656d3"
 mode = "metadata:curseforge"
 
 [update]

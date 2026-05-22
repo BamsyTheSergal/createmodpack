@@ -3,8 +3,8 @@ filename = "confluence_botany_pots-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cddf1a99dba81888eaf05a4e8798f8c045e3b86f"
+hash-format = "sha256"
+hash = "3ec59b9af0e4becaa37dd185b432fc1dde9327d6310e7535cdcb5f7f712620b8"
 mode = "metadata:curseforge"
 
 [update]

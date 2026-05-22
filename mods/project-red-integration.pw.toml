@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3JruZJb0/versions/usZlPKH4/ProjectRed-1.21.1-4.22.0-integration.jar"
-hash-format = "sha512"
-hash = "bb3e6a633ebf06e7655b240ebd106b9df660df91e71af992699033bebc94ae9377791c42fea8fcbad7d74bb967e1a87149e5592ec8e225016840d5c7315cd612"
+hash-format = "sha256"
+hash = "e1b77ed9921739ce0d890eb3fae2e60fe000719764323c0a34961c9fbe5f4b1f"
 
 [update]
 [update.modrinth]

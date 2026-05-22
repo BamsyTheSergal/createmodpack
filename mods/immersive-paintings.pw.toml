@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6txNkua3/versions/cEaVxjXh/immersive_paintings-neoforge-1.21.1-0.7.6.jar"
-hash-format = "sha512"
-hash = "b6ce9659c431e20c1062caf0a53a37abe1663f468f9738a170829517e1548910bf7e82a92eef89a3ab25ba814d4fdcf28a189a8e164432d4797dbc43ca3455fe"
+hash-format = "sha256"
+hash = "48ce0b45f575f6fe4c4fa83f2b9b33a14176fc69f5c188af8adb5d0ee8c8def4"
 
 [update]
 [update.modrinth]

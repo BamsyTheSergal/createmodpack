@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/uCCUxgX5/ProjectRed-1.21.1-4.22.0-transmission.jar"
-hash-format = "sha512"
-hash = "c0cc5af3972620e46a837891e502732c8bf3ddc81ffc3b92427e892e09725962db96adbc25051630438edb3a1ac37478fd6f6a019d0b562cd2dabbf42deb3e6b"
+hash-format = "sha256"
+hash = "1924870cc829e82baab8dd24a08aba231e065b4daf32367d0c26eaf1658646fb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4QitwNm0/versions/oNb733MS/minopp-1.4.0%2B1.21.1%2Bneoforge.jar"
-hash-format = "sha512"
-hash = "ee2bc51647bea76306e44beac96cb33d64438f5d0af4cf14b617548a4e1fee80a8c98f722373bf6a5a1c24641d8394331a520b675950e6998f227d4928dcd33c"
+hash-format = "sha256"
+hash = "c4c9a8b6216a31169c663d9f7429711dae28f345356012dc71fa1f850427d2be"
 
 [update]
 [update.modrinth]

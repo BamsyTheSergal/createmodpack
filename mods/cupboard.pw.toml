@@ -3,8 +3,8 @@ filename = "cupboard-1.21-3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70"
+hash-format = "sha256"
+hash = "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
 mode = "metadata:curseforge"
 
 [update]
