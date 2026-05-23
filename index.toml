@@ -434,11 +434,6 @@ hash = "7f42e472426e76edd606257f5c208278349a48555a6366bea686b9c8cbdcdb82"
 metafile = true
 
 [[files]]
-file = "mods/create-threaded-trains.pw.toml"
-hash = "c8809f8730429b832e572c5757c2bea5f3d1f9216f20a950b04a7c7065ee586a"
-metafile = true
-
-[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "d2266c7c80da700896d9897418704c5d3cc8e8c874b95989f81ef4f441535f83"
 metafile = true
