@@ -1,13 +1,13 @@
 name = "Display Delight"
-filename = "displaydelight-1.5.2.jar"
+filename = "displaydelight-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yXepZhp8/versions/pU6Dxie9/displaydelight-1.5.2.jar"
-hash-format = "sha256"
-hash = "5a958be24fa0e8ebf5f7263bab292f6bff20021a2963ca210d1745dc29116de8"
+url = "https://cdn.modrinth.com/data/yXepZhp8/versions/LhcOrDyJ/displaydelight-1.6.0.jar"
+hash-format = "sha512"
+hash = "217ea855795936973d7f4d689b9397e7edc1ffea179fb6483037e87b64e129fe65ca3b2f37846a0696d1df91856837d5fb238e27f2d8c0fd1504581697161d5a"
 
 [update]
 [update.modrinth]
 mod-id = "yXepZhp8"
-version = "pU6Dxie9"
+version = "LhcOrDyJ"

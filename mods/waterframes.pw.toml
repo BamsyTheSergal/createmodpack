@@ -1,13 +1,13 @@
 name = "WATERFrAMES: Multimedia Displays"
-filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar"
+filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/p6zqgIqr/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar"
-hash-format = "sha256"
-hash = "c2c9479f4ffe338ee89c35cf2f8859e52d77ebf5c95a3e3eba9344434c9b7fbd"
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/ygogZrIE/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar"
+hash-format = "sha512"
+hash = "cd924d55d23dcd8e5ff221a4f3bcc929018e9571f672dc390d000c977e3fba33ede885795d599a80f5ea5faac51258e34904487c2323d1281a6efb2ba54b0702"
 
 [update]
 [update.modrinth]
 mod-id = "eBzFuVTM"
-version = "p6zqgIqr"
+version = "ygogZrIE"
