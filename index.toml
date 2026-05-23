@@ -449,6 +449,11 @@ hash = "e2ae4921405ad9c023f63d151b9eab56d3b1608bed70943f861af860854f88f1"
 metafile = true
 
 [[files]]
+file = "mods/create-train-track-rail-grinding.pw.toml"
+hash = "1255602ebdffc8e8d9b3d68bc744c4bd5629032f4cd4c61ea4b96ebfe8182ceb"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "92bc667054a2bc5c77994bb5e1b4db2e7b2a128d600a189a12b198c602e91be2"
 metafile = true
