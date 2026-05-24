@@ -354,11 +354,6 @@ hash = "0f75b67fdf7f110ce8f84f829b166cae4b2eaed89afe9f1945de318a900b0d5e"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "33c2196cf6c4b900c1355da1b58259cce7385ee68aee1da65288c96387b23c50"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "221f838d7f1174a844b5213b140740a06054bda5b7d0426047cbea3e403db8a0"
 metafile = true
@@ -1211,11 +1206,6 @@ metafile = true
 [[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "6330e99722dc4b373df2550830bd166ce4c3f87a26d884e092261036bac85b19"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "f858e8ca5a8d0550341e83d38a94be132e8be01c9422db20208465e0e9ba8a80"
 metafile = true
 
 [[files]]
