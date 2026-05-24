@@ -1,13 +1,13 @@
 name = "More Delight (for Farmer's Delight)"
-filename = "moredelight-26.05.20a-1.21-neoforge.jar"
+filename = "moredelight-26.04.30-1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/znHQQtuU/versions/DpW4EgJo/moredelight-26.05.20a-1.21-neoforge.jar"
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/R5Aa0HDI/moredelight-26.04.30-1.21-neoforge.jar"
 hash-format = "sha512"
-hash = "0c0a8eb68b071b6705e042fb87d5007d33b60899e2721032c6d31eb76f5a27b3482872964995f0add76d339bc92d7ce41ead91ea3014317d1776f1e5f7b36a1c"
+hash = "50638af01f69e01480d3aa98f841832a83d3af763b3a3968aa85019b99c90eb3e84bb8e02248d7cd9ae5dd5f5c0d571bcce8c3696e6203452c3e7730e4ca23c1"
 
 [update]
 [update.modrinth]
 mod-id = "znHQQtuU"
-version = "DpW4EgJo"
+version = "R5Aa0HDI"
