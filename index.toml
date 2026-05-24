@@ -444,11 +444,6 @@ hash = "e2ae4921405ad9c023f63d151b9eab56d3b1608bed70943f861af860854f88f1"
 metafile = true
 
 [[files]]
-file = "mods/create-train-track-rail-grinding.pw.toml"
-hash = "1255602ebdffc8e8d9b3d68bc744c4bd5629032f4cd4c61ea4b96ebfe8182ceb"
-metafile = true
-
-[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "92bc667054a2bc5c77994bb5e1b4db2e7b2a128d600a189a12b198c602e91be2"
 metafile = true
@@ -504,13 +499,8 @@ hash = "de35d359c7668150123e883ff88c2435a5a3903e1564ed552770cedc3ebe91f6"
 metafile = true
 
 [[files]]
-file = "mods/delight-lib.pw.toml"
-hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
-metafile = true
-
-[[files]]
 file = "mods/display-delight.pw.toml"
-hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+hash = "6594fd48f50bc63f70749aba1f6b60132f4601487a40bc7b13906fc175789492"
 metafile = true
 
 [[files]]
@@ -1231,11 +1221,6 @@ metafile = true
 [[files]]
 file = "mods/snad.pw.toml"
 hash = "4be9dac9a8d4099f58114cebd623d7efb1dcd6000ad7523d6a04149454921799"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "61415c14ed7945f498a88563e0a28a00d7c3874e14b367797fc8f85ea60aff13"
 metafile = true
 
 [[files]]
