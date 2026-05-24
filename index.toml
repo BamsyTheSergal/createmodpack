@@ -939,11 +939,6 @@ hash = "cda7b1d997fa04b822b723f5ec453e9c128402b4ed02c87b2bc4595f89b635e7"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "850e82e59c93c212396e8eceb865d8f721e0c1abaca584cd4d205cd48f2c9552"
-metafile = true
-
-[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "789a4be5901a8da4ad5b5c530082479a97699f86844d255d1b2c711d23d835b6"
 metafile = true
@@ -981,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "f510b143e3bd823f8337e6bf8736fdcb02454adf457595eb40380740c4d1b683"
-metafile = true
-
-[[files]]
-file = "mods/nirvana.pw.toml"
-hash = "772833df75517edaa796a710139b6a0693fa6586d9bc9c7b3f052f0a0a47ca12"
 metafile = true
 
 [[files]]
