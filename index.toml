@@ -219,6 +219,11 @@ hash = "4655629be39c6b0f0a9dd1480d9e1a1b7dc67b4d937c4438c5d91f7ca36e4eb2"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "f63505f8b03d21eaa2d91259b2f42b5ba6e2c6136d0dd463739820109f89536f"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "8032ba9bce9721728358270bbd5a1eca543333862b1d4b4684ca6624ad71f1e3"
 metafile = true
@@ -971,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "c4e8e777e3f4196878b99575cffa838fd56fbc23b87326d5d7952af7f969f4ee"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "54d61dcf34eec5aa12eea8f71a0531d64174697e36a6572adecd8dada43e747f"
 metafile = true
 
 [[files]]
