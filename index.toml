@@ -29,11 +29,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "e031ad099b8a7a8b240cb94487eaa3d4d533c0f06843192bd49b4bdca88e2307"
 
 [[files]]
-file = "mods/2032-world-height.pw.toml"
-hash = "9fd19437dd9877724971aa3f16cebb3d1722f1ea06a1cadde084bb9c63717172"
-metafile = true
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "81330fec3870b0b893a6e666f29f49dd8576b74878e18de4dd286706dbb01fd0"
 metafile = true
