@@ -1,13 +1,13 @@
 name = "EntityJS"
-filename = "entityjs-1.4.5-1.21.jar"
+filename = "entityjs-1.4.6-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/7yLp83Iz/entityjs-1.4.5-1.21.jar"
-hash-format = "sha256"
-hash = "f6127f3b4fe84f173460d0c303dee6e5c1986eb19f1fa94b45e996674c10d617"
+url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/bjAjFmRW/entityjs-1.4.6-1.21.jar"
+hash-format = "sha512"
+hash = "49194827b55acd875eaf1383f882523324424d47ddd45fff9dcab50bc6ca0c1133928bf6a0e5f0a457646f062c8321f6db37fb48c819144ab4e80cb913084f89"
 
 [update]
 [update.modrinth]
 mod-id = "OvPZ16yX"
-version = "7yLp83Iz"
+version = "bjAjFmRW"

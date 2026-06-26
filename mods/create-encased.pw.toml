@@ -1,13 +1,13 @@
 name = "Create Encased"
-filename = "Create Encased-1.21.1-1.8.1.jar"
+filename = "Create Encased-1.21.1-1.8.1-ht2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/5ZrKxCun/Create%20Encased-1.21.1-1.8.1.jar"
+url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/clv4iPn9/Create%20Encased-1.21.1-1.8.1-ht2.jar"
 hash-format = "sha512"
-hash = "b39ddfdae01122b47adba3445c3fed0731d489968d306a802a78c7e3980d571a2fdf1c55dcf61a6ecdebe7e0dc5c60f08905f3f2ba86a46c85f314bf40e684f7"
+hash = "012fc9e24a6805059a2738bda75260fb64753dc0cb08228ea5b0caf0a35c32f401e7a97a5ec95a8f3d886a5d0c5cc258b93be40e89b46157f4e75cfc3fc496bd"
 
 [update]
 [update.modrinth]
 mod-id = "hSSqdyU1"
-version = "5ZrKxCun"
+version = "clv4iPn9"
