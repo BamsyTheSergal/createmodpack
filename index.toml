@@ -84,6 +84,11 @@ hash = "8aa04b0df676ebcee8f46084281d03d00d0ee949a992867727275797fe52da68"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
+metafile = true
+
+[[files]]
 file = "mods/backport-copper-age.pw.toml"
 hash = "a86d6e809a0f994af773d0f06a4bd9f3055e5471c9049d2394dcef51eb3790ab"
 metafile = true
@@ -496,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "de35d359c7668150123e883ff88c2435a5a3903e1564ed552770cedc3ebe91f6"
+metafile = true
+
+[[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
 
 [[files]]
@@ -1276,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "dcef7a87887c7f8da50c03e186825e3d4f4f1f1576a5351f1653e0b85d1bd101"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
 metafile = true
 
 [[files]]
