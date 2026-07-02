@@ -379,6 +379,11 @@ hash = "8fad30e9d26fed168e709656c58a6284105cb1b6aee4743fefad6566df965de5"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "1a6368c367832dd778a70d76e2f97373733f2de4c5f5dae21c8142dd286c065d"
 metafile = true
@@ -436,11 +441,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
