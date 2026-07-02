@@ -1,0 +1,13 @@
+name = "NeoTerraForged"
+filename = "reterraforged-0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cca4540fd2ce967a5452dd38693b9b7c60d41d91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8187853
+project-id = 1562962

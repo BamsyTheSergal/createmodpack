@@ -439,6 +439,11 @@ hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
 metafile = true
 
 [[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "d2266c7c80da700896d9897418704c5d3cc8e8c874b95989f81ef4f441535f83"
 metafile = true
@@ -989,6 +994,11 @@ hash = "c4e8e777e3f4196878b99575cffa838fd56fbc23b87326d5d7952af7f969f4ee"
 metafile = true
 
 [[files]]
+file = "mods/neoterraforged.pw.toml"
+hash = "85203849f7630163d3a6566e68eb6e9758822370b42c224b9f22f5b3d90ac799"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "e1f504fd329ada442d77f3990edfceea6bb66b207a880afd1efc51aa8d978016"
 metafile = true
@@ -1086,6 +1096,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a7e5606e4fb42469dbb93a4e4e12e5e107020069591ad9f5f0a0ede98809f4b"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
