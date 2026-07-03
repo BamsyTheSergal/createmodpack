@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "f4d1a87d788779d8bfbe1541abaffe62af15bc6ef1b31922be913240bc37a12e"
+hash = "9f3f411cf253c8d92c146a4fc8a473c47038171f596e8810a930285bf5f664a8"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "95fe79ecdb1e1da0aa00bbc7a113b117353382265350b570b23c43bf9ddde7d7"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
