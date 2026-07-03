@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "f200a085681a40047222b701f6a52fc098b51702a2debd909d1789fac78a9c38"
+hash = "f4d1a87d788779d8bfbe1541abaffe62af15bc6ef1b31922be913240bc37a12e"
 metafile = true
 
 [[files]]
