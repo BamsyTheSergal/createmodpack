@@ -1339,11 +1339,6 @@ hash = "1d5fcdacb9a64b8331dd6cf084e67ded94664ecc3fa8a57a4dfc84decbae6a5e"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
-metafile = true
-
-[[files]]
 file = "mods/wits.pw.toml"
 hash = "68e67e35fc0ace9aa5f970b35f89b9f32daf649ebfc7a8a3f4282c8b9632ae2a"
 metafile = true
