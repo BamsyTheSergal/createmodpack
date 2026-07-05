@@ -89,11 +89,6 @@ hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
 
 [[files]]
-file = "mods/backport-copper-age.pw.toml"
-hash = "a86d6e809a0f994af773d0f06a4bd9f3055e5471c9049d2394dcef51eb3790ab"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "cc035dc8878fd1ba7f8fb9a9d412dbb6ff1abe1cb3fedb4be4e90eb5968634a9"
 metafile = true
@@ -186,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "618b8ad26f87296a749ad3d7f034adc6c9ca2a9e9be43b2612dd285efa03faf6"
-metafile = true
-
-[[files]]
-file = "mods/client-crafting.pw.toml"
-hash = "3f66821467e4d663d1613906c38e810ddb81c93a36443590c3f01e9208fd83d6"
 metafile = true
 
 [[files]]
@@ -944,11 +934,6 @@ hash = "7082d602806058a4e87c56eb4a563152bf56d7f198d6fbe38447a56e7cb95069"
 metafile = true
 
 [[files]]
-file = "mods/minopp.pw.toml"
-hash = "4b8a9a8e615625447b2902745211d715801524f9d5dba78b54649a646bb16de9"
-metafile = true
-
-[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "013bc1d1b6beb990e412e1c88a83c832e4f75c94c3c2e6dd6788a87835ba425d"
 metafile = true
@@ -1031,11 +1016,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
-metafile = true
-
-[[files]]
-file = "mods/overweight-farming.pw.toml"
-hash = "b43295edd793ee4e6a54fc09816c8c965ecb19386c063411cb3ae496a7e9d14b"
 metafile = true
 
 [[files]]
@@ -1151,11 +1131,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
-metafile = true
-
-[[files]]
-file = "mods/reconstructed-wands.pw.toml"
-hash = "5741376fdedf1f5a5f7645ee045861977cb8dc3b4f11482f1fcf20ddcda5d134"
 metafile = true
 
 [[files]]
@@ -1334,11 +1309,6 @@ hash = "4eb11828f5ba66e90adcabd3690c2d4788b0e570d9dc03fd544e91168799bb24"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "3f4585a08b3c6e5b703ed002e11494c6d17938f697a2b498f6da31592e7eb350"
-metafile = true
-
-[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
@@ -1371,21 +1341,6 @@ metafile = true
 [[files]]
 file = "mods/waterframes.pw.toml"
 hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "fde024ec5355b87c292c7021f4a09f1106b60000083c960443ac8d99470e359f"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "ade1a5a5e1fd3c5fe23cb5a5f9a187e1ab22f6e3c209d8b4e849057f3514993f"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "d064372636b2dfbe8a952adaa86f5f975f86beefc2fb9e31eac2b3979b833567"
 metafile = true
 
 [[files]]
