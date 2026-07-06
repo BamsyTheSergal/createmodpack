@@ -459,11 +459,6 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
-file = "mods/createoplenty.pw.toml"
-hash = "0fbd707a583055804ed73798fde6f183a0a7f6d010235e0e82900e9b8fa01e77"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
 metafile = true
@@ -1291,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "34ef88b3e43662d1c2a8c5189003b7d4d471fe9909cd162849d13e9f770da50c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
